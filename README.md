@@ -1,5 +1,5 @@
 # Magic 8 Ball 
-##A Basic Exercise in Conditional Control Flow
+## A Basic Exercise in Conditional Control Flow
 ---
 
 In this project we will build the Magic Eight Ball using control flow in JavaScript.
